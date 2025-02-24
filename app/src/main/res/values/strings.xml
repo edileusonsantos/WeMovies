@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeMovies</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_cart">Carrinho</string>
+    <string name="title_profile">Perfil</string>
+
+    <string name="welcome">Bem vindo a</string>
+    <string name="preference_key">wemoviekey</string>
+    <string name="greatest_hits_wemovie">Maiores Sucessos da Wemovie</string>
+    <string name="best_sellers">Mais Vendidos</string>
+    <string name="shopping_cart">Carrinho de compras</string>
+    <string name="total">Total</string>
+    <string name="finalize_order">Finalizar Pedido</string>
+    <string name="add_cart">Adicionar ao Carrinho</string>
+    <string name="payment_success">Compra realizada com sucesso!</string>
+    <string name="payment_success_in">Compra realizada em 14/02/2025 às 15:12</string>
+    <string name="go_home">Voltar à Home</string>
+    <string name="looks_nothing_here">Parece que não há nada por aqui :(</string>
+    <string name="reload_page">Recarregar página</string>
+</resources>
